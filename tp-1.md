@@ -1,39 +1,39 @@
-# TP1 – IHM / UCD
+# TP1 – HCI / UCD
 
-## 1) Besoin(s) utilisateur
-Un besoin utilisateur est une attente liée à l’usage d’une interface.  
-Dans mon projet, j’ai répondu au besoin de **simplicité et de clarté** : permettre à l’utilisateur de naviguer rapidement grâce à une barre de navigation claire et à un logo identifiable.
-
----
-
-## 2) Processus du Design Centré Utilisateur
-Les étapes du Design Centré Utilisateur sont :  
-1. Observer le contexte d’utilisation  
-2. Identifier les besoins des utilisateurs  
-3. Créer des maquettes ou prototypes  
-4. Tester avec des utilisateurs  
-5. Améliorer par itérations  
-
-J’en suis à l’étape **3 – conception des maquettes** dans Figma (interface mobile plongée sous-marine avec logo animé et barre de navigation).
+## 1) User Need(s)
+A user need is an expectation related to the use of an interface.  
+In my project, I addressed the need for **simplicity and clarity**: allowing the user to navigate quickly thanks to a clear navigation bar and an identifiable logo.
 
 ---
 
-## 3) Ajout d’observateurs
-J’ai présenté mon projet à des camarades de classe, qui m’ont conseillé sur les couleurs et sur le positionnement du logo au travers des pages.  
-Cela correspond au principe fondamental de l’UCD : **impliquer les utilisateurs** pour recueillir leurs retours.
+## 2) User-Centered Design Process
+The steps of the User-Centered Design process are:  
+1. Observe the usage context  
+2. Identify user needs  
+3. Create mockups or prototypes  
+4. Test with users  
+5. Improve through iterations  
+
+I am currently at step **3 – designing mockups** in Figma (mobile interface for scuba diving, with animated logo and navigation bar).
 
 ---
 
-## 4) Définition des calques et bonnes pratiques
-Un calque est un élément graphique distinct dans Figma.  
-
-**Bonnes pratiques appliquées :**
-- Calques nommés correctement (logo, icônes, textes)  
-- Organisation hiérarchique claire  
-- Groupes utilisés pour structurer les écrans  
+## 3) Adding Observers
+I presented my project to classmates, who gave me advice on colors and the positioning of the logo across the pages.  
+This corresponds to a fundamental principle of UCD: **involving users** in order to gather their feedback.
 
 ---
 
-## 5) Définition d’un composant
-Un composant est un élément réutilisable.  
-Dans mon projet, la **barre de navigation et ses boutons** (Logo, Présentation, Tarifs, Aide) sont conçus comme composants pour être utilisés sur plusieurs écrans.
+## 4) Layers Definition and Best Practices
+A layer is a distinct graphical element in Figma.  
+
+**Best practices applied:**
+- Layers named properly (logo, icons, texts)  
+- Clear hierarchical organization  
+- Groups used to structure screens  
+
+---
+
+## 5) Definition of a Component
+A component is a **reusable element**.  
+In my project, the **navigation bar and its buttons** (Presentation, Pricing, Help) were designed as components to be reused across several screens.

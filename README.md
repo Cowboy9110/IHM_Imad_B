@@ -1,5 +1,5 @@
-# IHM
+# HCI
 
-Voici mon rendu pour le TP1 en cours d'interface homme-machine avec Mr. Rose le 25/09/2025.
+Here is my submission for TP1 in the Human-Computer Interaction course with Mr. Rose on 09/25/2025.
 
-Mes observateurs furent : Mohamed Morouche et Guillaume Bonier
+My observers were: Mohamed Morouche and Guillaume Bonier
